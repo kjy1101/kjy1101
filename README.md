@@ -7,7 +7,8 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kjy1101 alt=kjy1101 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kjy1101&show_icons=true&include_all_commits=true)](https://github.com/kjy1101/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjy1101&layout=compact)](https://github.com/kjy1101/github-readme-stats)-->
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjy1101&layout=compact&langs_count=10&hide=Perl,Makefile)](https://github.com/kjy1101/github-readme-stats)
 
 <br>
 
